@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ivan Cabulo</h1>
 <h3 align="center">An enthusiastic developer from Colombia. I'm immerse into a full stack bootcamp right now.</h3>
 
-- 🔭 I’m currently working on [Learning how to create web applications with different tools](https://github.com/icabulo/Holy-Grail-tutorial)
+- 🔭 I’m currently working on [Learning how to create frontend and backend applications](https://github.com/icabulo/Holy-Grail-tutorial)
 
-- 🌱 I’m currently learning **Nodejs, Bootstrap, Redux**
+- 🌱 I’m currently learning **Redux, Nodejs, Prisma**
 
 - 👨‍💻 All of my projects are available at [https://github.com/icabulo](https://github.com/icabulo)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **React, Redux Toolkit, Express, MySQL, JavaScript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ivancamilo/**
 
